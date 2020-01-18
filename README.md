@@ -2,4 +2,6 @@
 
 This is my *first* repo.
 
-![](./hades.gif)
+Disney's best villain:
+
+![Disney's best villain!](./hades.gif)
